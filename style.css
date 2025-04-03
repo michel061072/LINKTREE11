@@ -10,7 +10,7 @@
 
 :root {
     --black: #141414;
-    --dark-grey-: #1f1f1f;
+    --dark-grey: #1f1f1f;
     --white: #FFF;
     --neon-green: #C4F82A;
     --grey: #333333;
@@ -25,9 +25,9 @@
   }
   
   div {
-   background-color: var(--dark-grey);
+   background-color: var(--dark-grey-);
    color: var(--white);
-   width:384px;
+   width: 384px;
    text-align: center;
    border-radius: 12px;
    padding: 40px;
